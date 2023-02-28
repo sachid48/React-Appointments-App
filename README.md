@@ -137,9 +137,9 @@ Use these files to complete the implementation:
 - Roboto
 
 </details>
-> ### URL : https://sachiappointapp.ccbp.tech/
 
-> ### _Things to Keep in Mind_
+
+> ### URL : https://sachiappointapp.ccbp.tech/
 >
 > - All components you implement should go in the `src/components` directory.
 > - Don't change the component folder names as those are the files being imported into the tests.
